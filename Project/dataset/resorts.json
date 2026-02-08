@@ -6,7 +6,7 @@
     "altitude": 2300,
     "numberOfSlopes": 68,
     "hasSnowpark": true,
-    "imageUrl": "https://images.example.com/resorts/val-thorens.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/WannesPauwels/project_webdev/refs/heads/main/Project/dataset/img/Val%20Thorens.png"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "altitude": 1304,
     "numberOfSlopes": 88,
     "hasSnowpark": true,
-    "imageUrl": "https://images.example.com/resorts/st-anton.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/WannesPauwels/project_webdev/refs/heads/main/Project/dataset/img/St%20Anton.png"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "altitude": 1620,
     "numberOfSlopes": 54,
     "hasSnowpark": false,
-    "imageUrl": "https://images.example.com/resorts/zermatt.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/WannesPauwels/project_webdev/refs/heads/main/Project/dataset/img/Zermatt.png"
   },
   {
     "id": 4,
