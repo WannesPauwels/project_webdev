@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Val Thorens",
+    "country": "France",
+    "altitude": 2300,
+    "numberOfSlopes": 68,
+    "hasSnowpark": true,
+    "imageUrl": "https://images.example.com/resorts/val-thorens.jpg"
+  },
+  {
+    "id": 2,
+    "name": "St. Anton",
+    "country": "Austria",
+    "altitude": 1304,
+    "numberOfSlopes": 88,
+    "hasSnowpark": true,
+    "imageUrl": "https://images.example.com/resorts/st-anton.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Zermatt",
+    "country": "Switzerland",
+    "altitude": 1620,
+    "numberOfSlopes": 54,
+    "hasSnowpark": false,
+    "imageUrl": "https://images.example.com/resorts/zermatt.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Cortina d'Ampezzo",
+    "country": "Italy",
+    "altitude": 1224,
+    "numberOfSlopes": 42,
+    "hasSnowpark": false,
+    "imageUrl": "https://images.example.com/resorts/cortina.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Kitzbühel",
+    "country": "Austria",
+    "altitude": 762,
+    "numberOfSlopes": 58,
+    "hasSnowpark": true,
+    "imageUrl": "https://images.example.com/resorts/kitzbuhel.jpg"
+  }
+]
