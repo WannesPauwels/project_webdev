@@ -1,0 +1,202 @@
+[
+  {
+    "id": 101,
+    "name": "Lucas Vermeulen",
+    "bio": "Een gepassioneerde all-mountain skiër die elk seizoen in de Alpen doorbrengt.",
+    "age": 27,
+    "isActive": true,
+    "birthDate": "1998-02-14",
+    "profileImage": "https://raw.githubusercontent.com/WannesPauwels/projectopdracht_webdev/refs/heads/main/Project/dataset/Lucas_Vermeulen.png",
+    "skillLevel": "advanced",
+    "hobbies": ["freeride", "ski touring", "photography"],
+    "favoriteResort": {
+      "id": 1,
+      "name": "Val Thorens",
+      "country": "France",
+      "altitude": 2300,
+      "numberOfSlopes": 68,
+      "hasSnowpark": true,
+      "imageUrl": "https://images.example.com/resorts/val-thorens.jpg"
+    }
+  },
+  {
+    "id": 102,
+    "name": "Emma De Smet",
+    "bio": "Recreatieve skiër die vooral geniet van brede pistes en gezellige après-ski.",
+    "age": 34,
+    "isActive": true,
+    "birthDate": "1990-07-09",
+    "profileImage": "https://raw.githubusercontent.com/WannesPauwels/projectopdracht_webdev/refs/heads/main/Project/dataset/img/Emma%20de%20smet.png",
+    "skillLevel": "intermediate",
+    "hobbies": ["carving", "apres-ski", "travel"],
+    "favoriteResort": {
+      "id": 2,
+      "name": "St. Anton",
+      "country": "Austria",
+      "altitude": 1304,
+      "numberOfSlopes": 88,
+      "hasSnowpark": true,
+      "imageUrl": "https://images.example.com/resorts/st-anton.jpg"
+    }
+  },
+  {
+    "id": 103,
+    "name": "Noah Peeters",
+    "bio": "Competitieve skiër met focus op snelheid en techniek.",
+    "age": 22,
+    "isActive": true,
+    "birthDate": "2002-11-21",
+    "profileImage": "https://raw.githubusercontent.com/WannesPauwels/projectopdracht_webdev/refs/heads/main/Project/dataset/img/Noah%20Peeters.png",
+    "skillLevel": "expert",
+    "hobbies": ["giant slalom", "fitness", "video analysis"],
+    "favoriteResort": {
+      "id": 3,
+      "name": "Zermatt",
+      "country": "Switzerland",
+      "altitude": 1620,
+      "numberOfSlopes": 54,
+      "hasSnowpark": false,
+      "imageUrl": "https://images.example.com/resorts/zermatt.jpg"
+    }
+  },
+  {
+    "id": 104,
+    "name": "Sofie Janssens",
+    "bio": "Beginnende skiër die elk jaar vooruitgang wil boeken.",
+    "age": 29,
+    "isActive": false,
+    "birthDate": "1995-05-03",
+    "profileImage": "https://raw.githubusercontent.com/WannesPauwels/projectopdracht_webdev/refs/heads/main/Project/dataset/img/Sofie%20Janssens.png",
+    "skillLevel": "beginner",
+    "hobbies": ["ski lessons", "yoga", "mountain walks"],
+    "favoriteResort": {
+      "id": 4,
+      "name": "Cortina d'Ampezzo",
+      "country": "Italy",
+      "altitude": 1224,
+      "numberOfSlopes": 42,
+      "hasSnowpark": false,
+      "imageUrl": "https://images.example.com/resorts/cortina.jpg"
+    }
+  },
+  {
+    "id": 105,
+    "name": "Thomas Willems",
+    "bio": "Freestyle skiër met een liefde voor snowparks.",
+    "age": 25,
+    "isActive": true,
+    "birthDate": "1999-09-18",
+    "profileImage": "https://raw.githubusercontent.com/WannesPauwels/projectopdracht_webdev/refs/heads/main/Project/dataset/img/Thomas%20Willems.png",
+    "skillLevel": "advanced",
+    "hobbies": ["jumps", "rails", "video editing"],
+    "favoriteResort": {
+      "id": 5,
+      "name": "Kitzbühel",
+      "country": "Austria",
+      "altitude": 762,
+      "numberOfSlopes": 58,
+      "hasSnowpark": true,
+      "imageUrl": "https://images.example.com/resorts/kitzbuhel.jpg"
+    }
+  },
+  {
+    "id": 106,
+    "name": "Liam Bosch",
+    "bio": "Rustige skiër die vooral van lange afdalingen houdt.",
+    "age": 41,
+    "isActive": true,
+    "birthDate": "1983-01-27",
+    "profileImage": "https://raw.githubusercontent.com/WannesPauwels/projectopdracht_webdev/refs/heads/main/Project/dataset/img/Liam%20Bosch.png",
+    "skillLevel": "intermediate",
+    "hobbies": ["long runs", "mountain food", "travel"],
+    "favoriteResort": {
+      "id": 1,
+      "name": "Val Thorens",
+      "country": "France",
+      "altitude": 2300,
+      "numberOfSlopes": 68,
+      "hasSnowpark": true,
+      "imageUrl": "https://images.example.com/resorts/val-thorens.jpg"
+    }
+  },
+  {
+    "id": 107,
+    "name": "Julie Maes",
+    "bio": "Ski-instructrice met jaren ervaring.",
+    "age": 38,
+    "isActive": true,
+    "birthDate": "1986-04-12",
+    "profileImage": "https://raw.githubusercontent.com/WannesPauwels/projectopdracht_webdev/refs/heads/main/Project/dataset/img/Julie%20Maes.png",
+    "skillLevel": "expert",
+    "hobbies": ["teaching", "children training", "nutrition"],
+    "favoriteResort": {
+      "id": 2,
+      "name": "St. Anton",
+      "country": "Austria",
+      "altitude": 1304,
+      "numberOfSlopes": 88,
+      "hasSnowpark": true,
+      "imageUrl": "https://images.example.com/resorts/st-anton.jpg"
+    }
+  },
+  {
+    "id": 108,
+    "name": "Arne Claes",
+    "bio": "Backcountry skiër met focus op veiligheid en natuur.",
+    "age": 31,
+    "isActive": true,
+    "birthDate": "1993-06-30",
+    "profileImage": "https://raw.githubusercontent.com/WannesPauwels/projectopdracht_webdev/refs/heads/main/Project/dataset/img/Arne%20Claes.png",
+    "skillLevel": "advanced",
+    "hobbies": ["avalanche safety", "ski touring", "camping"],
+    "favoriteResort": {
+      "id": 3,
+      "name": "Zermatt",
+      "country": "Switzerland",
+      "altitude": 1620,
+      "numberOfSlopes": 54,
+      "hasSnowpark": false,
+      "imageUrl": "https://images.example.com/resorts/zermatt.jpg"
+    }
+  },
+  {
+    "id": 109,
+    "name": "Nina Vercammen",
+    "bio": "Vakantieskiër die vooral met vrienden gaat.",
+    "age": 26,
+    "isActive": false,
+    "birthDate": "1998-12-05",
+    "profileImage": "https://raw.githubusercontent.com/WannesPauwels/projectopdracht_webdev/refs/heads/main/Project/dataset/img/Nina_Vercammen.png",
+    "skillLevel": "beginner",
+    "hobbies": ["group trips", "photos", "apres-ski"],
+    "favoriteResort": {
+      "id": 4,
+      "name": "Cortina d'Ampezzo",
+      "country": "Italy",
+      "altitude": 1224,
+      "numberOfSlopes": 42,
+      "hasSnowpark": false,
+      "imageUrl": "https://images.example.com/resorts/cortina.jpg"
+    }
+  },
+  {
+    "id": 110,
+    "name": "Bram De Keyser",
+    "bio": "Technische skiër die houdt van uitdagende pistes.",
+    "age": 35,
+    "isActive": true,
+    "birthDate": "1989-08-16",
+    "profileImage": "https://raw.githubusercontent.com/WannesPauwels/projectopdracht_webdev/refs/heads/main/Project/dataset/img/Bram%20De%20Keyser.png",
+    "skillLevel": "advanced",
+    "hobbies": ["steep slopes", "equipment testing", "analytics"],
+    "favoriteResort": {
+      "id": 5,
+      "name": "Kitzbühel",
+      "country": "Austria",
+      "altitude": 762,
+      "numberOfSlopes": 58,
+      "hasSnowpark": true,
+      "imageUrl": "https://images.example.com/resorts/kitzbuhel.jpg"
+    }
+  }
+]
